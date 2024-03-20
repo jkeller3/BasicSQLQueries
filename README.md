@@ -1,0 +1,2 @@
+# BasicSQLQueries
+Practicing SQL Fundamentals
